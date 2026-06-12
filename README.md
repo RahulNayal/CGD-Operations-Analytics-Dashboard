@@ -204,17 +204,17 @@ SLA Rules:
 
 ## Executive Dashboard
 
-![Executive Dashboard](Images/Executive_Dashboard)
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
 
 ## Gas Operations Dashboard
 
-![Gas Operations Dashboard](Images/Gas_Operations_Dashboard)
+![Gas Operations Dashboard](Images/Gas_Operations_Dashboard.png)
 
 
 ## Complaint & Maintenance Dashboard
 
-![Complaint Dashboard](Images/Complaint_Maintenance_Dashboard)
+![Complaint Dashboard](Images/Complaint_Maintenance_Dashboard.png)
 
 
 ---
